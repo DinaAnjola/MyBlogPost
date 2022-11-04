@@ -1,0 +1,16 @@
+h3 {
+    text-align: center;
+    color:darkred;
+}
+h1 {
+    color:darkred;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:chocolate;
+    font-size: x-large;
+}
+body{
+    background-color: snow;
+}
